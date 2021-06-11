@@ -1,4 +1,4 @@
-# disentangling-SDSC-fall-2020
+# disentangling-physical-systems
 
 ## Usage
 ### Prerequisites
